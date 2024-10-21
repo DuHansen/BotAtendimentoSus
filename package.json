@@ -1,0 +1,16 @@
+{
+  "name": "atendimentoauto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@wppconnect-team/wppconnect": "^1.34.2",
+    "numeric": "^1.2.6"
+  }
+}
